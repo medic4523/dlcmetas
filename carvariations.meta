@@ -6318,7 +6318,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="118"/>
     </Item>
     <Item>
       <modelName>rescue11a</modelName>
@@ -15850,4 +15850,5 @@
 </variationData>
 
 </CVehicleModelInfoVariation>
+
 
