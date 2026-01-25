@@ -4320,7 +4320,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="118"/>
+      <sirenSettings value="117"/>
     </Item>
     <Item>
       <modelName>tower5</modelName>
@@ -15850,5 +15850,6 @@
 </variationData>
 
 </CVehicleModelInfoVariation>
+
 
 
