@@ -34264,7 +34264,7 @@
     <Item>
       <modelName>ARFF4</modelName>
       <txdName>ARFF4</txdName>
-      <handlingId>RIOT2</handlingId>
+      <handlingId>ARFF8</handlingId>
       <gameName>ARFF4</gameName>
       <vehicleMakeName>Osh</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -34706,3 +34706,4 @@
   </txdRelationships>
 
 </CVehicleModelInfo__InitDataList>
+
