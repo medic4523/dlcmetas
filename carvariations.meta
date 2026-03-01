@@ -11556,7 +11556,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="226"/>
     </Item>
     <Item>
       <modelName>Van1c</modelName>
@@ -15850,6 +15850,7 @@
 </variationData>
 
 </CVehicleModelInfoVariation>
+
 
 
 
