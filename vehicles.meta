@@ -14280,7 +14280,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
-      <vehicleClass>VC_UTILITY</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
         <Item>tillertrl</Item>
@@ -14397,7 +14397,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
-      <vehicleClass>VC_UTILITY</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
         <Item>tillertrl</Item>
@@ -14514,7 +14514,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
-      <vehicleClass>VC_UTILITY</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
         <Item>tillertrl</Item>
@@ -14631,7 +14631,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
-      <vehicleClass>VC_UTILITY</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
         <Item>tillertrl</Item>
@@ -14748,7 +14748,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
-      <vehicleClass>VC_UTILITY</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
         <Item>tillertrl</Item>
@@ -14865,7 +14865,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
-      <vehicleClass>VC_UTILITY</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
         <Item>tillertrl</Item>
@@ -14983,7 +14983,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
-      <vehicleClass>VC_UTILITY</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
         <Item>tillertrl</Item>
@@ -15100,7 +15100,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
-      <vehicleClass>VC_UTILITY</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
         <Item>tillertrl</Item>
@@ -15218,7 +15218,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
-      <vehicleClass>VC_UTILITY</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
         <Item>tillertrl</Item>
@@ -15336,7 +15336,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
-      <vehicleClass>VC_UTILITY</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
         <Item>tillertrl</Item>
