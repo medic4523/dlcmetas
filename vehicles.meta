@@ -15691,12 +15691,10 @@
       <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers>
-        <Item>tillertrl</Item>
+        <Item>tankertrl</Item>
       </trailers>
       <additionalTrailers>
         <Item>trflat</Item>
-        <Item>rescuetrl</Item>
-		<Item>tillertrl2</Item>
       </additionalTrailers>
       <drivers>
 		<Item>
