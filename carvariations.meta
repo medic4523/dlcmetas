@@ -1944,7 +1944,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="215"/>
+      <sirenSettings value="130"/>
     </Item>
     <Item>
       <modelName>engine12a</modelName>
@@ -2538,7 +2538,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="135"/>
     </Item>
     <Item>
       <modelName>engine18</modelName>
@@ -6804,7 +6804,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="135"/>
     </Item>
     <Item>
       <modelName>rescue17a</modelName>
@@ -12312,7 +12312,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="196"/>
+      <sirenSettings value="199"/>
     </Item>
     <Item>
       <modelName>minieng1</modelName>
