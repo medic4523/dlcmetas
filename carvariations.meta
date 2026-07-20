@@ -5994,7 +5994,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="121"/>
     </Item>
     <Item>
       <modelName>rescue9a</modelName>
@@ -6210,7 +6210,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="227"/>
+      <sirenSettings value="121"/>
     </Item>
     <Item>
       <modelName>rescue9e</modelName>
@@ -7560,7 +7560,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="227"/>
+      <sirenSettings value="121"/>
     </Item>
     <Item>
       <modelName>TILLER9A</modelName>
@@ -8154,7 +8154,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="227"/>
+      <sirenSettings value="121"/>
     </Item>
     <Item>
       <modelName>tender9a</modelName>
@@ -8208,7 +8208,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="227"/>
+      <sirenSettings value="121"/>
     </Item>
 	<Item>
       <modelName>tender9b</modelName>
@@ -13554,7 +13554,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="224"/>
+      <sirenSettings value="121"/>
     </Item>
     <Item>
       <modelName>medic4b</modelName>
@@ -15336,7 +15336,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="160"/>
+      <sirenSettings value="121"/>
     </Item>
 	<Item>
       <modelName>hackneytrl2</modelName>
