@@ -324,7 +324,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="162"/>
     </Item>
     <Item>
       <modelName>engine3a</modelName>
@@ -378,7 +378,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="162"/>
     </Item>
     <Item>
       <modelName>engine4</modelName>
@@ -2808,7 +2808,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="162"/>
     </Item>
     <Item>
       <modelName>ladder4</modelName>
@@ -4212,7 +4212,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="162"/>
     </Item>
     <Item>
       <modelName>tower3a</modelName>
@@ -4266,7 +4266,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="162"/>
     </Item>
     <Item>
       <modelName>tower4</modelName>
@@ -5292,7 +5292,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="162"/>
     </Item>
     <Item>
       <modelName>rescue3a</modelName>
@@ -5346,7 +5346,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="162"/>
     </Item>
     <Item>
       <modelName>rescue4</modelName>
@@ -7236,7 +7236,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="162"/>
     </Item>
     <Item>
       <modelName>tiller4</modelName>
@@ -7992,7 +7992,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="162"/>
     </Item>
     <Item>
       <modelName>TENDER6</modelName>
