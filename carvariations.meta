@@ -1566,7 +1566,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="225"/>
+      <sirenSettings value="121"/>
     </Item>
     <Item>
       <modelName>engine9d</modelName>
@@ -8262,7 +8262,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="206"/>
+      <sirenSettings value="121"/>
     </Item>
 	<Item>
       <modelName>tender9c</modelName>
@@ -8370,7 +8370,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="206"/>
+      <sirenSettings value="121"/>
     </Item>
     <Item>
       <modelName>tender15</modelName>
@@ -8532,7 +8532,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="121"/>
     </Item>
     <Item>
       <modelName>crew9b</modelName>
@@ -8586,7 +8586,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="4"/>
+      <sirenSettings value="121"/>
     </Item>
     <Item>
       <modelName>car1</modelName>
@@ -13608,7 +13608,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1"/>
-      <sirenSettings value="121"/>
+      <sirenSettings value="224"/>
     </Item>
     <Item>
       <modelName>medic5</modelName>
