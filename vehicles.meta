@@ -29550,7 +29550,7 @@
     <Item>
       <modelName>medic4a</modelName>
       <txdName>medic4a</txdName>
-      <handlingId>AMBULAN</handlingId>
+      <handlingId>FIRETRUK</handlingId>
       <gameName>medic4a</gameName>
       <vehicleMakeName>Freight</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
